@@ -1,0 +1,6 @@
+framework module Pods_Helpnet_HelpnetUITests {
+  umbrella header "Pods-Helpnet-HelpnetUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
